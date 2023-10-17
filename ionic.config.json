@@ -1,0 +1,8 @@
+{
+  "name": "Noev",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "f6dc2a3f"
+}
